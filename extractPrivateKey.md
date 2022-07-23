@@ -1,4 +1,5 @@
 ## https://security.stackexchange.com/questions/3779/how-can-i-export-my-private-key-from-a-java-keytool-keystore
+## https://www.ssl.com/how-to/export-certificates-private-key-from-pkcs12-file-with-openssl/
 
 ```
 --JKS to P12--
